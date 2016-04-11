@@ -25,7 +25,12 @@
         http://dynamicjasper.com
 
     </description>
-
+    <url>https://github.com/FDVSolutions/DynamicJasper-core-fonts</url>
+    <issueManagement>
+        <system>GitHub Tracker</system>
+        <url>https://github.com/FDVSolutions/DynamicJasper-core-fonts/issues</url>
+    </issueManagement>
+    <inceptionYear>2006</inceptionYear>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
