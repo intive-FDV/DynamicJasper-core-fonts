@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Arial">
+		<normal><![CDATA[fonts/Arial/Arial.ttf]]></normal>
+		<bold><![CDATA[fonts/Arial/Arial_Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Arial/Arial_Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Arial/Arial_Bold_Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Comic Sans MS">
+		<normal><![CDATA[fonts/ComicSansMS/Comic_Sans_MS.ttf]]></normal>
+		<bold><![CDATA[fonts/ComicSansMS/Comic_Sans_MS_Bold.ttf]]></bold>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Courier New">
+		<normal><![CDATA[fonts/CourierNew/Courier_New.ttf]]></normal>
+		<bold><![CDATA[fonts/CourierNew/Courier_New_Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/CourierNew/Courier_New_Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/CourierNew/Courier_New_Bold_Italic.ttf]]></boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Georgia">
+		<normal><![CDATA[fonts/Georgia/Georgia.ttf]]></normal>
+		<bold><![CDATA[fonts/Georgia/Georgia_Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Georgia/Georgia_Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Georgia/Georgia_Bold_Italic.ttf]]></boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Monospaced">
+		<normal><![CDATA[fonts/Monospaced/LiberationMono-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/Monospaced/LiberationMono-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Monospaced/LiberationMono-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Monospaced/LiberationMono-BoldItalic.ttf]]></boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Times New Roman">
+		<normal><![CDATA[fonts/TimesNewRoman/Times_New_Roman.ttf]]></normal>
+		<bold><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Bold_Italic.ttf]]></boldItalic>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="Verdana">
+		<normal><![CDATA[fonts/Verdana/Verdana.ttf]]></normal>
+		<bold><![CDATA[fonts/Verdana/Verdana_Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/Verdana/Verdana_Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Verdana/Verdana_Bold_Italic.ttf]]></boldItalic>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
