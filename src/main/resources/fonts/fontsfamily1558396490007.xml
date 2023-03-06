@@ -5,12 +5,15 @@
 		<bold><![CDATA[fonts/Arial/Arial_Bold.ttf]]></bold>
 		<italic><![CDATA[fonts/Arial/Arial_Italic.ttf]]></italic>
 		<boldItalic><![CDATA[fonts/Arial/Arial_Bold_Italic.ttf]]></boldItalic>
-		<pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 	<fontFamily name="Comic Sans MS">
 		<normal><![CDATA[fonts/ComicSansMS/Comic_Sans_MS.ttf]]></normal>
 		<bold><![CDATA[fonts/ComicSansMS/Comic_Sans_MS_Bold.ttf]]></bold>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 	<fontFamily name="Courier New">
@@ -18,6 +21,8 @@
 		<bold><![CDATA[fonts/CourierNew/Courier_New_Bold.ttf]]></bold>
 		<italic><![CDATA[fonts/CourierNew/Courier_New_Italic.ttf]]></italic>
 		<boldItalic><![CDATA[fonts/CourierNew/Courier_New_Bold_Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 	<fontFamily name="Georgia">
@@ -25,6 +30,8 @@
 		<bold><![CDATA[fonts/Georgia/Georgia_Bold.ttf]]></bold>
 		<italic><![CDATA[fonts/Georgia/Georgia_Italic.ttf]]></italic>
 		<boldItalic><![CDATA[fonts/Georgia/Georgia_Bold_Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 	<fontFamily name="Monospaced">
@@ -39,6 +46,8 @@
 		<bold><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Bold.ttf]]></bold>
 		<italic><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Italic.ttf]]></italic>
 		<boldItalic><![CDATA[fonts/TimesNewRoman/Times_New_Roman_Bold_Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 	<fontFamily name="Verdana">
@@ -46,6 +55,8 @@
 		<bold><![CDATA[fonts/Verdana/Verdana_Bold.ttf]]></bold>
 		<italic><![CDATA[fonts/Verdana/Verdana_Italic.ttf]]></italic>
 		<boldItalic><![CDATA[fonts/Verdana/Verdana_Bold_Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<pdfEncoding>Identity-H</pdfEncoding>
 		<exportFonts/>
 	</fontFamily>
 </fontFamilies>
